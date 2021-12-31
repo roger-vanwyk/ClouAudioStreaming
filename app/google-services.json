@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "596507519059",
+    "firebase_url": "https://mzanzify-streaming.firebaseio.com",
+    "project_id": "mzanzify-streaming",
+    "storage_bucket": "mzanzify-streaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596507519059:android:69983092db0d1cbeba7ea6",
+        "android_client_info": {
+          "package_name": "app.gif.mzanzify.premium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596507519059-liodlmqk1ae3mamoi8gt8cg9plm2ab0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcWp9drww0XqTKwiZkzcRUqS5dGwEw8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596507519059-liodlmqk1ae3mamoi8gt8cg9plm2ab0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596507519059:android:f76fad393d4a6d1aba7ea6",
+        "android_client_info": {
+          "package_name": "com.example.cloudmusicstreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596507519059-liodlmqk1ae3mamoi8gt8cg9plm2ab0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcWp9drww0XqTKwiZkzcRUqS5dGwEw8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596507519059-liodlmqk1ae3mamoi8gt8cg9plm2ab0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

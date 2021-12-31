@@ -1,0 +1,23 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
+dependencyResolutionManagement {
+/*
+Original code
+
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)*/
+
+//    Modified code
+
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+
+//    Original code continues
+
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+        maven { url 'https://jitpack.io'}
+    }
+}
+rootProject.name = "Cloud Music Streaming"
+include ':app'
